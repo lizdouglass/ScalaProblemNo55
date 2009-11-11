@@ -1,0 +1,12 @@
+run
+reload
+hi
+reload
+hi
+reload
+hi
+cd ..
+hi
+clean test
+reload
+help

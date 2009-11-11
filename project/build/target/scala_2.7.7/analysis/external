@@ -1,0 +1,5 @@
+#External Dependencies
+#Wed Nov 11 20:33:57 EST 2009
+/Users/ldouglas/Documents/SelfLearning/ScalaProblemNo55/project/boot/scala-2.7.7/lib/scala-library.jar=marsScala.scala
+/Users/ldouglas/Documents/SelfLearning/ScalaProblemNo55/project/boot/scala-2.7.7/sbt-0.5.6/sbt_2.7.7-0.5.6.jar=marsScala.scala
+/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/classes.jar=marsScala.scala
