@@ -1,0 +1,4 @@
+# ignore the bin, out and target dirs
+*/bin
+*/out
+*/target

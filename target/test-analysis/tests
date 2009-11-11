@@ -1,3 +1,0 @@
-#Tests
-#Mon Nov 09 21:28:31 EST 2009
-src/test/scala/RoverTest.scala=RoverSpec<<org.scalatest.Suite
